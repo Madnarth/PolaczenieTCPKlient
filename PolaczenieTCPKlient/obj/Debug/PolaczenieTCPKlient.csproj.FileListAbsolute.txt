@@ -1,0 +1,8 @@
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\bin\Debug\PolaczenieTCPKlient.exe.config
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\bin\Debug\PolaczenieTCPKlient.exe
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\bin\Debug\PolaczenieTCPKlient.pdb
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\obj\Debug\PolaczenieTCPKlient.Form1.resources
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\obj\Debug\PolaczenieTCPKlient.Properties.Resources.resources
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\obj\Debug\PolaczenieTCPKlient.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\obj\Debug\PolaczenieTCPKlient.exe
+E:\Dokumenty\GitHub\PolaczenieTCPKlient\PolaczenieTCPKlient\obj\Debug\PolaczenieTCPKlient.pdb
